@@ -39,4 +39,5 @@ Includes:
 ## Contact
 Interested or need help setting it up?
 
-📧 Email: yourname@gmail.com
+📧 Email: aditya.828777@gmail.com
+
