@@ -36,4 +36,7 @@ Includes:
 - Setup instructions
 - Minor customization help if needed
 
-DM to get access.
+## Contact
+Interested or need help setting it up?
+
+📧 Email: yourname@gmail.com
